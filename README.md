@@ -109,4 +109,4 @@ This project adheres to the Contributor Covenant [code of conduct](https://githu
 
 ### License: [MIT](https://github.com/chanzuckerberg/sorbet-rails/blob/master/LICENSE)
 
-### [Security](https://github.com/chanzuckerberg/awesome-data-insights-projects/SECURITY.md)
+### [Security](https://github.com/chanzuckerberg/awesome-data-insights-projects/blob/main/SECURITY.md)
