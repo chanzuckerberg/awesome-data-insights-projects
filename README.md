@@ -90,12 +90,12 @@ Sunduz Keles, Emery	Bresnick
 
 Github repo:
 
-## Understanding the History of Mutations and Cancer Cells
+## [Understanding the History of Mutations and Cancer Cells](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/understanding-the-history-of-mutations-and-cancer-cells/)
 Alexander Tsankov, Rosa Karlic
 
 Github repo:
 
-## Unraveling Immunogenomic Diversity in Single-Cell Data
+## [Unraveling Immunogenomic Diversity in Single-Cell Data](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/unraveling-immunogenomic-diversity-in-single-cell-data/)
 Katharina Imkeller, Federico Marini
 
 Github repo:
