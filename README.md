@@ -6,7 +6,7 @@ Luca Pinello, Eli Bingham, Gioele	La Manno
 Github repo:
 
 ## [Benchmarking of scRNA-Seq to Improve Human Health](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/benchmarking-of-scrna-seq-to-improve-human-health/)
-Elizabeth Purdom, PhD
+Elizabeth Purdom
 
 Github repo:
 
@@ -16,7 +16,7 @@ Fabian Theis, Nir Yosef
 Github repo:
 
 ## [Deep and Standardized Single-Cell Annotations with CITE-seq](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/deep-and-standardized-single-cell-annotations-with-cite-seq/)
-Evan Newell, Raphael Gottardo, PhD
+Evan Newell, Raphael Gottardo
 
 Github repo:
 
