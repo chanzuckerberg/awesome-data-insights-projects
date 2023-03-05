@@ -28,7 +28,7 @@ Github repo:
 ## [Enhancing Rigor and Reliability of Single-Cell Data Science](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/enhancing-rigor-and-reliability-of-single-cell-data-science/)
 Jingyi Jessica Li
 
-Github repo:
+Github repo: https://github.com/JSB-UCLA
 
 ## [Gene Set Enrichment Analysis for Single-Cell Data (scGSEA)](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/gene-set-enrichment-analysis-for-single-cell-data-scgsea/)
 Jill Mesirov
