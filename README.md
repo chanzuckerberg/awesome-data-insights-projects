@@ -21,9 +21,11 @@ Evan Newell, Raphael Gottardo
 Github repo:
 
 ## [Efficient Data Structures for Single-Cell Data Integration](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/efficient-data-structures-for-single-cell-data-integration/)
-Timothy Triche
+Timothy Triche, Zach DeBruine
 
-Github repo:
+* Github repo 1: https://github.com/zdebruine/RcppML
+* Github repo 2: https://github.com/zdebruine/CSFmatrix
+* Github repo 3: https://github.com/zdebruine/singlet
 
 ## [Enhancing Rigor and Reliability of Single-Cell Data Science](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/enhancing-rigor-and-reliability-of-single-cell-data-science/)
 Jingyi Jessica Li
