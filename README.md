@@ -53,7 +53,7 @@ Github repo:
 ## [Mapping Enhancer-gene Regulation in Various Cell Types](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/mapping-enhancer-gene-regulation-in-various-cell-types/)
 Jesse Engreitz
 
-Github repo:
+Github repo: https://github.com/broadinstitute/ABC-Enhancer-Gene-Prediction  https://github.com/EngreitzLab/CRISPR_comparison
 
 ## [MetaPlaq: Integrative Single-Cell Meta-Analysis for Atherosclerosis](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/metaplaq-integrative-single-cell-meta-analysis-for-atherosclerosis/)
 Clint Miller, Chongzhi Zang, Sander W. van der Laan
